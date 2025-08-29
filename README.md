@@ -53,6 +53,7 @@ Developed by the **KalApache Team**.
 - Abitan, Julianne Therese
 - Aquino, Jan Dolby
 - Cahanap, Jerilyn Louise
+- Caparas, Joaquin Gabriel
 - Escaño, Nichole Jhoy
 - Mandac, Minette Victoria
 - San Miguel, Chloe’ Lee
