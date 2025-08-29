@@ -34,7 +34,7 @@ Team Sports Survey Analysis is a data-driven project that explores survey respon
    ```bash
    jupyter notebook
 
-   Then open the provided .ipynb file.
+Then open the provided .ipynb file.
 
 ## Usage
 - Run the Jupyter Notebook step by step
