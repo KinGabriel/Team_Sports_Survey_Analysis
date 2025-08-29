@@ -17,7 +17,7 @@ Team Sports Survey Analysis is a data-driven project that explores survey respon
 ## Installation & Setup
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Team-Sports-Survey-Analysis.git
+   git clone https://github.com/yourusername/Team_Sports_Survey_Analysis.git
    cd Team-Sports-Survey-Analysis
 
 2. **Set up a virtual environment (optional)**
